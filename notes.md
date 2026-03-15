@@ -1,0 +1,4 @@
+- [x] Setup typescript
+- [x] Dockerfile
+- [x] Docker compose
+- Next up is configuring Apache with httpd.conf

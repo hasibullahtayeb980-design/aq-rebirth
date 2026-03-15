@@ -1,0 +1,10 @@
+{
+    "extends": "@tsconfig/node24/tsconfig.json",
+    "compilerOptions": {
+        "outDir": "./build",
+        "rootDir": "./src",
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["src/tests/**/*"]
+}

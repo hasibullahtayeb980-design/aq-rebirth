@@ -7,6 +7,9 @@ node_modules
 # Replace as required with your build location
 /build
 
+# Media files
+/htdocs
+
 # Deal with environment files
 .env
 .env.*
